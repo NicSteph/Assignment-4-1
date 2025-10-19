@@ -4,9 +4,9 @@ This program calculates prices for custom house signs.
 
 # Declare and initialize variables here.
 charge = 35.00
-numChars = 8
+numChars = 20
 color = "gold"
-woodType = "oak"
+woodType = "pine"
 
 # Write assignment and if statements here as appropriate.
 if numChars > 5:
