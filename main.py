@@ -10,6 +10,6 @@ woodType = "oak"
 
 # Write assignment and if statements here as appropriate.
 if numChars > 5:
-  charge = charge (numChars - 5) * 4
+  charge = charge + (numChars - 5) * 4
 # Output Charge for this sign.
 print("The charge for this sign is $" + str(charge))
